@@ -1,0 +1,4 @@
+GeneName	Function	Length
+BRCA1	DNA Repair	245
+TP53	Cell Cycle Regulation	547
+GATA3	Transcription Regulation	276
