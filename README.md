@@ -1,4 +1,4 @@
-# Lecture 4: Writing 'pythonic' code
+# Lecture 4: Writing 'Pythonic' Code
 
 This lecture is focused on introducing these concepts:
 - unpacking
